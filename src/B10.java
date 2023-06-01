@@ -17,6 +17,11 @@ public class B10 {
         int[] a= new int[] {1,5,-4,8,9,5,-7};
         for(int i=0;i<=a.length-1;i++)
             System.out.print(a[i]+ " ");
+//           public static void main(String[] args) {
+//         int[] a= new int[] {1,5,-4,8,9,5,-7};
+//         for(int i=0;i<=a.length-1;i++)
+//             System.out.print(a[i]+ " ");
+//               test github
 
         int[] b = new int[a.length];
         int j=-1;
